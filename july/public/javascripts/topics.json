@@ -1,0 +1,56 @@
+[
+    {
+        "nav": "Dynamo",
+        "title": "Workspace",
+        "image": "/images/dynamo.jpg",
+        "description": "On July 14th, Workspace VDI's were updated to include an install of Dynamo 1.0.  If you're not familiar Dynamo is one a graphical programming interface for Revit. <br><br>When you get a chance take it for a spin at workspace.gensler.com"
+    },
+    {
+        "nav": "Upgrade",
+        "title": "Revit", 
+        "image": "/images/autodesk.jpg",
+        "description": "Due to technical issues that arose with Windows Explorer, the R2 upgrade of Revit was pulled from the portal shortly after being released.  The problem has since been resolved and the update is undergoinbg the IT test process. <br><br>We are hoping for a re-release in the next couple of weeks."
+        
+    }, 
+    {
+        "nav": "Octane",
+        "title": "3.01b", 
+        "image": "/images/octane.png",
+        "description": "Over the past few weeks the IT support has been working their way through the region upgrading all instances of Octane to 3.0.  Most noteworthy feature of the new version is that it now uses a web-based license system. <br><br>This means that upon request and approval individuals can now install Octane directly on their personal laptop."
+        
+    }, 
+    {
+        "nav": "Content",
+        "title": "Furniture", 
+        "image": "/images/eames.jpg",
+        "description": "In a continued effort to provide our region with quality content for use in Revit and Octane we have generated a series of new furniture libraries.  Here are a few locations worth book marking:<br><br><table class=table table-condensed><thead><tr><th>Chairs</th><th></th></tr></thead><tbody><tr><td>Revit</td><td><a href=\"\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\Furniture\\Chairs\\By Manufacturer\">\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\Furniture\\...</a></td></tr><td>Octane</td><td><a href=\"\\\\dc-fs1\\gensler\\CAD\\Octane Render\\Octane Content\\Furniture\\Chairs\\By Manufacturer\">\\\\dc-fs1\\gensler\\CAD\\Octane Render\\Octane Content\\Furniture\\Chairs\\By Manufacturer</a></td></tr></tbody></table><table class=table table-condensed><thead><tr><th>Lighting</th><th></th></tr></thead><tbody><tr><td>Revit</td><td><a href=\"\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\Lighting\\Generic\">\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\...</a></td></tr></tbody></table>"
+        
+    },
+    {
+        "nav": "Tools",
+        "title": "Test Fits",
+        "image": "/images/plan.jpg",
+        "description": "Recently one of our designers in Philadelphia created some useful support content for the Test Fits Palette.  Content is still pending review and approval but is available for use in the meantime here:<br><br><table class=table table-condensed><thead><tr><th>Furniture</th><th></th></tr></thead><tbody><tr><td>Revit</td><td>\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Source Files\\Test Fits</td></tr></tbody></table><table class=table table-condensed><thead><tr><th>Storefront</th><th></th></tr></thead><tbody><tr><td>Revit</td><td>\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Source Files\\Test Fits</td></tr></tbody></table>"
+    }, 
+    {
+        "nav": "Training",
+        "title": "Onboarding", 
+        "image": "/images/training.jpg",
+        "description": "Recently a group of technical leaders in the region embarked on an effort to outline the process by which employees are oriented to Gensler tools and techniques.  Their work is tangential to an effort already underway by our group to assemble a Design Execution Plan.  The goal of this is to clearly outline the process by which one delivers a BIM project at Gensler."
+        
+    }, 
+    {
+        "nav": "Standards",
+        "title": "Detail Library", 
+        "image": "/images/detail.jpg",
+        "description": "After a year-long effort the Detail Task Force finally released their new detail library to the entire firm in June.  Unfortunately certain aspects of the work were brought into question immediately thereafter leading to a decision to pull the content and send it through another round of revisions.  This most unfortuante as we were all anxiously awaiting access to this resource.<br><br>We are currently working to get an estimate of its res-release."
+        
+    },
+    {
+        "nav": "Firmwide",
+        "title": "Toolbar", 
+        "image": "/images/toolbar.jpg",
+        "description": "The Firmwide Revit toolbar more familiar as \"Gensler Tools\" has undergone an overhaul.  Most of the changes have been to the backend allowing us to track usage and problems with more granularity, however one feature has gone away that will be noticed:  There is no longer access to Beta Tools.<br><br>Other than preventing access to tools in development the only effect it should have is changing the way we access Project Builder."
+        
+    }
+]

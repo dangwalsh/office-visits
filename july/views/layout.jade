@@ -1,0 +1,20 @@
+doctype html
+html
+  head
+    title= title
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/animation/animate.css')
+    link(rel='stylesheet', href='/bootstrap-18/css/bootstrap.min.css' media='screen')
+  body
+    div.navbar.navbar-inverse.navbar-fixed-top
+      div.container
+        div.navbar-header
+          a.navbar-brand= title
+        #navbar.collapse.navbar-collapse
+          ul.nav.navbar-nav
+    div.container        
+      block content
+    script(src='//code.jquery.com/jquery.min.js')
+    script(src='/bootstrap/js/bootstrap.min.js')
+    script(src='/javascripts/animate.js')
