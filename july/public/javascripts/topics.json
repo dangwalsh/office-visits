@@ -23,7 +23,7 @@
         "nav": "Content",
         "title": "Furniture", 
         "image": "/images/eames.jpg",
-        "description": "In a continued effort to provide our region with quality content for use in Revit and Octane we have generated a series of new furniture libraries.  Here are a few locations worth book marking:<br><br><table class=table table-condensed><thead><tr><th>Chairs</th><th></th></tr></thead><tbody><tr><td>Revit</td><td><a href=\"\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\Furniture\\Chairs\\By Manufacturer\">\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\Furniture\\...</a></td></tr><td>Octane</td><td><a href=\"\\\\dc-fs1\\gensler\\CAD\\Octane Render\\Octane Content\\Furniture\\Chairs\\By Manufacturer\">\\\\dc-fs1\\gensler\\CAD\\Octane Render\\Octane Content\\Furniture\\Chairs\\By Manufacturer</a></td></tr></tbody></table><table class=table table-condensed><thead><tr><th>Lighting</th><th></th></tr></thead><tbody><tr><td>Revit</td><td><a href=\"\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\Lighting\\Generic\">\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\...</a></td></tr></tbody></table>"
+        "description": "In a continued effort to provide our region with quality content for use in Revit and Octane we have generated a series of new furniture libraries.  Here are a few locations worth book marking:<br><br><table class=table table-condensed><thead><tr><th>Chairs</th><th></th></tr></thead><tbody><tr><td>Revit</td><td>\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\Furniture\\Chairs\\By Manufacturer</td></tr><td>Octane</td><td>\\\\dc-fs1\\gensler\\CAD\\Octane Render\\Octane Content\\Furniture\\Chairs\\By Manufacturer</td></tr></tbody></table><table class=table table-condensed><thead><tr><th>Lighting</th><th></th></tr></thead><tbody><tr><td>Revit</td><td>\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Building Components\\Lighting\\Generic</td></tr></tbody></table>"
         
     },
     {
@@ -43,7 +43,7 @@
         "nav": "Standards",
         "title": "Detail Library", 
         "image": "/images/detail.jpg",
-        "description": "After a year-long effort the Detail Task Force finally released their new detail library to the entire firm in June.  Unfortunately certain aspects of the work were brought into question immediately thereafter leading to a decision to pull the content and send it through another round of revisions.  This most unfortuante as we were all anxiously awaiting access to this resource.<br><br>We are currently working to get an estimate of its res-release."
+        "description": "After a year-long effort the Detail Task Force finally released their new detail library to the entire firm in June.  Unfortunately certain aspects of the work were brought into question immediately thereafter leading to a decision to pull the content and send it through another round of revisions.  This most unfortuante as we were all anxiously awaiting access to this resource.<br><br>We are currently working to get an estimate of its re-release."
         
     },
     {
