@@ -3,7 +3,7 @@
         "nav": "Dynamo",
         "title": "Workspace",
         "image": "/images/dynamo.jpg",
-        "description": "On July 14th, Workspace VDI's were updated to include an install of Dynamo 1.0.  If you're not familiar Dynamo is one a graphical programming interface for Revit. <br><br>When you get a chance take it for a spin at workspace.gensler.com"
+        "description": "On July 14th, Workspace VDI's were updated to include an install of Dynamo 1.0.  If you're not familiar, Dynamo is a graphical programming interface for Revit. <br><br>When you get a chance take it for a spin at <a href='https://workspace.gensler.com'>workspace.gensler.com</a>"
     },
     {
         "nav": "Upgrade",
@@ -36,21 +36,21 @@
         "nav": "Training",
         "title": "Onboarding", 
         "image": "/images/training.jpg",
-        "description": "Recently a group of technical leaders in the region embarked on an effort to outline the process by which employees are oriented to Gensler tools and techniques.  Their work is tangential to an effort already underway by our group to assemble a Design Execution Plan.  The goal of this is to clearly outline the process by which one delivers a BIM project at Gensler."
+        "description": "A group of technical leaders in the region embarked on an effort to outline the process by which employees are oriented to Gensler tools and techniques.  Their work is tangential to an effort already underway by our SE BIM group to assemble a Design Execution Plan.  The goal of this is to clearly outline the process by which one delivers a BIM project at Gensler."
         
     }, 
     {
         "nav": "Standards",
         "title": "Detail Library", 
         "image": "/images/detail.jpg",
-        "description": "After a year-long effort the Detail Task Force finally released their new detail library to the entire firm in June.  Unfortunately certain aspects of the work were brought into question immediately thereafter leading to a decision to pull the content and send it through another round of revisions.  This most unfortuante as we were all anxiously awaiting access to this resource.<br><br>We are currently working to get an estimate of its re-release."
+        "description": "After a year-long effort the Detail Task Force finally released their new detail library to the entire firm in June.  Unfortunately certain aspects of the work was brought into question shortly thereafter leading to a decision to pull the content and send it through another round of revisions.  This was most unfortunate as we were all anxiously awaiting access to this resource.<br><br>We are currently working to get an estimate of its re-release date."
         
     },
     {
         "nav": "Firmwide",
         "title": "Toolbar", 
         "image": "/images/toolbar.jpg",
-        "description": "The Firmwide Revit toolbar more familiar as \"Gensler Tools\" has undergone an overhaul.  Most of the changes have been to the backend allowing us to track usage and problems with more granularity, however one feature has gone away that will be noticed:  There is no longer access to Beta Tools.<br><br>Other than preventing access to tools in development the only effect it should have is changing the way we access Project Builder."
+        "description": "The Firmwide Revit toolbar more commonly known as \"Gensler Tools\" has undergone an overhaul.  Most of the changes have been to the backend, allowing us to track usage and problems with more granularity, however one feature has gone away that will be noticed:  <em>there will no longer be access to Beta Tools</em>.<br><br>Other than preventing access to tools in development the only effect it should have is changing the way we access Project Builder."
         
     }
 ]
