@@ -3,20 +3,20 @@
         "nav": "Dynamo",
         "title": "Workspace",
         "image": "/images/dynamo.jpg",
-        "description": "On July 14th, Workspace VDI's were updated to include an install of Dynamo 1.0.  If you're not familiar, Dynamo is a graphical programming interface for Revit. <br><br>When you get a chance take it for a spin at <a href='https://workspace.gensler.com'>workspace.gensler.com</a>"
+        "description": "On July 14th, Workspace VDI's were updated to include an install of <b>Dynamo 1.0</b>.  If you're not familiar, Dynamo is a graphical programming interface for Revit. <br><br>When you get a chance take it for a spin at <a href='https://workspace.gensler.com'>workspace.gensler.com</a>"
     },
     {
         "nav": "Upgrade",
         "title": "Revit", 
         "image": "/images/autodesk.jpg",
-        "description": "Due to technical issues that arose with Windows Explorer, the R2 upgrade of Revit was pulled from the portal shortly after being released.  The problem has since been resolved and the update is undergoinbg the IT test process. <br><br>We are hoping for a re-release in the next couple of weeks."
+        "description": "Due to technical issues that arose with Windows Explorer, the <b>R2</b> upgrade of Revit was pulled from the portal shortly after being released.  The problem has since been addressed and the update is going through the IT test process. <br><br>We are hoping for a re-release in the next couple of weeks."
         
     }, 
     {
         "nav": "Octane",
         "title": "3.01b", 
         "image": "/images/octane.png",
-        "description": "Over the past few weeks the IT support has been working their way through the region upgrading all instances of Octane to 3.0.  Most noteworthy feature of the new version is that it now uses a web-based license system. <br><br>This means that upon request and approval individuals can now install Octane directly on their personal laptop."
+        "description": "Over the past few weeks the IT support has been working their way through the region upgrading all instances of <b>Octane</b> to 3.0.  Most noteworthy feature of the new version is that it now uses a web-based license system. <br><br>This means that upon request and approval individuals can now install <b>Octane</b> directly on their personal laptop."
         
     }, 
     {
@@ -30,27 +30,27 @@
         "nav": "Tools",
         "title": "Test Fits",
         "image": "/images/plan.jpg",
-        "description": "Recently one of our designers in Philadelphia created some useful support content for the Test Fits Palette.  Content is still pending review and approval but is available for use in the meantime here:<br><br><table class=table table-condensed><thead><tr><th>Furniture</th><th></th></tr></thead><tbody><tr><td>Revit</td><td>\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Source Files\\Test Fits</td></tr></tbody></table><table class=table table-condensed><thead><tr><th>Storefront</th><th></th></tr></thead><tbody><tr><td>Revit</td><td>\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Source Files\\Test Fits</td></tr></tbody></table>"
+        "description": "Recently one of our designers in Philadelphia developed some useful support content for the <b>Test Fits Palette</b>.  Content is still pending review and approval but is available for use in the meantime here:<br><br><table class=table table-condensed><thead><tr><th>Furniture</th><th></th></tr></thead><tbody><tr><td>Revit</td><td>\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Source Files\\Test Fits</td></tr></tbody></table><table class=table table-condensed><thead><tr><th>Storefront</th><th></th></tr></thead><tbody><tr><td>Revit</td><td>\\\\dc-fs1\\gensler\\CAD\\Revit 2008\\Content Libraries\\Local\\DC_Source Files\\Test Fits</td></tr></tbody></table>"
     }, 
     {
         "nav": "Training",
         "title": "Onboarding", 
         "image": "/images/training.jpg",
-        "description": "A group of technical leaders in the region embarked on an effort to outline the process by which employees are oriented to Gensler tools and techniques.  Their work is tangential to an effort already underway by our SE BIM group to assemble a Design Execution Plan.  The goal of this is to clearly outline the process by which one delivers a BIM project at Gensler."
+        "description": "Several technical leaders in the region embarked on a task to outline the process of design/documentation at Gensler.  Their work is parallel to an effort already underway by our SE BIM group to assemble a regional <b>Design Execution Plan</b>.  The goal of this is to clearly outline the process by which one delivers a BIM project at Gensler."
         
     }, 
     {
         "nav": "Standards",
         "title": "Detail Library", 
         "image": "/images/detail.jpg",
-        "description": "After a year-long effort the Detail Task Force finally released their new detail library to the entire firm in June.  Unfortunately certain aspects of the work was brought into question shortly thereafter leading to a decision to pull the content and send it through another round of revisions.  This was most unfortunate as we were all anxiously awaiting access to this resource.<br><br>We are currently working to get an estimate of its re-release date."
+        "description": "After a year-long effort the <b>Detail Task Force</b> finally released their new detail library to the entire firm in June.  Unfortunately certain aspects of the work were brought into question shortly thereafter leading to a decision to pull the content and send it through another round of revisions.  This was most unfortunate as we were all anxiously awaiting the arrival of this resource.<br><br>We are currently working to get an estimate of its re-release date."
         
     },
     {
         "nav": "Firmwide",
         "title": "Toolbar", 
         "image": "/images/toolbar.jpg",
-        "description": "The Firmwide Revit toolbar more commonly known as \"Gensler Tools\" has undergone an overhaul.  Most of the changes have been to the backend, allowing us to track usage and problems with more granularity, however one feature has gone away that will be noticed:  <em>there will no longer be access to Beta Tools</em>.<br><br>Other than preventing access to tools in development the only effect it should have is changing the way we access Project Builder."
+        "description": "The Firmwide Revit toolbar more commonly known as <b>Gensler Tools</b> has undergone an overhaul.  Most of the changes have been to the backend, allowing us to track usage and problems with more granularity, however one feature has gone away that will be noticed:  <em>there will no longer be access to Beta Tools</em>.<br><br>Other than preventing access to tools in development the only effect it should have is to change the way we access <b>Project Builder</b>."
         
     }
 ]
