@@ -1,0 +1,41 @@
+[
+    {
+        "nav": "Alignment"
+        ,"title": "How do we detail?"
+        ,"image": "/images/sketch.jpg"
+        ,"description": "What is the so-called <b>best practice</b>?  What are people <b>actually</b> doing?"
+        ,"table": {}
+    }
+    ,{
+        "nav": "Time"
+        ,"title": "How do we save time?"
+        ,"image": "/images/timer.jpg"
+        ,"description": ""
+        ,"table": {
+            "heading": ["Problem", "Solution"]
+            ,"one": ["Redrawing wastes time", "Use a library"]
+            ,"two": ["Detail is incorrect", "Due diligence"]
+        }
+    }
+    ,{
+        "nav": "Organization"
+        ,"title": "Where do we find things?"
+        ,"image": "/images/org.jpg"
+        ,"description": "Within both our Region and Firmwide there are repositories of details and detail components.  The easiest way to access them is through the <b>Gensler SE</b> and <b>Gensler Tools</b> toolbars."
+        ,"table": {}
+    }
+    ,{
+        "nav": "Adapt"
+        ,"title": "How do we change things?"
+        ,"image": "/images/modify.jpg"
+        ,"description": "Sometimes you won't be able to find exactly what you need in our library.  In such a case it's always better to work from an existing detail rather than start from scratch.  Not only will it save you time but it also ensures our firm standards are incorporated in the family."
+        ,"table": {}
+    }
+    ,{
+        "nav": "Production"
+        ,"title": "What tools do we use?"
+        ,"image": "/images/box.png"
+        ,"description": "The <b>Gensler Detail Layout Box</b> will help guide you in positioning elements and text, while the <b>Detail Tools</b> addin can help streamline the process of alignment."
+        ,"table": {}
+    }
+]
